@@ -1,7 +1,7 @@
 # 🔦 Project: LED Blinker with DE2-115 (FPGA)
 
 This project implements a simple binary counter using the **Terasic DE2-115** board equipped with an **Altera Cyclone IV (EP4CE115F29C7)** FPGA.  
-The goal is to blink the red LEDs on the board (`LEDR[7:0]`) based on a 50 MHz internal clock, creating a cascading counting effect.
+The goal is to blink the red LEDs on the board (`LEDR[7:0]`) based on a 50 MHz internal clock, creating a Scanner effect.
 
 ## 🧠 How It Works
 
